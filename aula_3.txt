@@ -1,0 +1,54 @@
+    1  touch readme
+    2  readme
+    3  touch arquivo.readme
+    4  cat readme
+    5  touch readme.md
+    6  cat readme.md
+    7  ls
+    8  mkdir prueba uno
+    9  cd~
+   10  cd..
+   11  pwd
+   12  ls-a
+   13  rm-r readme
+   14  rm-r readme.md
+   15  git config --global user.name 'Luis Ruiz'
+   16  git config --global user.email 'nessiuscaffe@gmail.com'
+   17  git config user.name
+   18  cd desktop/
+   19  mkdir Curso_Git
+   20  cd curso_git
+   21  gif config user.name
+   22  cd curso_git/
+   23  git config user.name
+   24  cd curso_git
+   25  git init
+   26  git status
+   27  echo '#aprendendo usar o git'> readme.md
+   28  git status
+   29  git add readme.md
+   30  git status
+   31  git commit -m 'commit inicial'
+   32  git status
+   33  echo '##aula 1'>> readme.md
+   34  git status
+   35  echo 'luis ruiz' > participantes.txt
+   36  git status
+   37  git add.
+   38  git add .
+   39  git status
+   40  git restore --staged participantes.txt
+   41  git status
+   42  git add participantes.txt
+   43  git status
+   44  git restore --staged .
+   45  git status
+   46  git commit -am 'alteração no readme'
+   47  git status
+   48  git add participantes.txt
+   49  git status
+   50  git commit -m 'adicionado participantes.txt
+git commit -m 'adicionado participantes.txt'
+git commit -m 'adicionado participantes.txt
+   51  git commit -m 'adicionado participantes.txt'
+   52  history > aula_3.txt
