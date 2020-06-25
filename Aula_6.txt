@@ -1,0 +1,40 @@
+    1  git branch
+    2  clear
+    3  git status
+    4  clear
+    5  git log --pretty=oneline
+    6  git log
+    7  git log
+    8  git help
+    9  clear
+   10  git checkout HEAD~2
+   11  clear
+   12  git confi --global alias.logprettyg 'log --pretty=oneline --graph'
+   13  git config --global alias.logprettyg 'log --pretty=oneline --graph'
+   14  git logprettyg
+   15  git config alias.CAM 'commit -am'
+   16  git CAM
+   17  git config alias.CAM 'commit -am'
+   18  git CAM
+   19  CAM
+   20  git cam
+   21  git tag
+   22  git tag -a v0.1 -m 'ate a Aula 5'
+   23  git logprettyg
+   24  git feature
+   25  git checkout feature
+   26  clear
+   27  git config --global alias.logprettyg 'log --pretty=oneline --graph'
+   28  git logprettyg
+   29  git config alias.CAM 'commit -am'
+   30  git CAM
+   31  git config alias.CAM 'commit -am '
+   32  git CAM
+   33  git tag
+   34  git tag -a v0.1 -m 'ate a Aula 5'
+   35  git logprettyg
+   36  git checkout master
+   37  git rebase feature
+   38  git logprettyg
+   39  history > Aula_6. txt
+   40  history > Aula_6.txt
